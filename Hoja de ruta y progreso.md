@@ -1,6 +1,6 @@
 # Hoja de ruta y progreso  **"Desafío333 Ethereum web3"**  
 **Hoja de ruta:**  
-Solidity - entorno Ethereum - entorno web3 - Proyectos web2-web3.   
+Ethereum - lenguaje programación Solidity - entorno web3 - Proyectos web2-web3.   
 En este momento esta hoja de ruta va ligada a la adquisición de bases en JS en el ["Desafío333 Javascript"](https://github.com/Eccedev/Desafio333-JavaScript).  
 Se comienza a desarrollar proyectos web3 guiados y también nos servirá para continuar posteriormente con otros entornos web3.  
   
