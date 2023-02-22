@@ -1,6 +1,6 @@
-# Desafio333-Ethereum-web3
+# Desafío333 Ethereum web3
 - Mi **"Desafío333 Ethereum web3" consta de: el lenguaje de Solidity de Ethereum, el entorno web3 y proyectos web2-web3.**  
-#
+#  
 
 **Mis fracciones del día:**  
 - Mañana (de 6 a 14 h)  
