@@ -9,8 +9,8 @@ Se comienza a desarrollar proyectos web3 guiados y también nos servirá para co
 #
 PROYECTOS en DESARROLLO mientras se muerde este reto: **DNS en Polygon**
 #
-### Fecha 21/02/2023 = .  
-nota: realizo una readaptación general y elimino como independiente el reto de proyectos y los incluyo en los retos a los que pertenecen: entorno javascrip o entorno ethereum-web3.  
+### Fecha 21/02/2023  .  
+nota: realizo una readaptación general de Desafío333 y elimino como independiente el reto de proyectos y los incluyo en los retos a los que pertenecen: Desafío333 Javascrip o Desafío333 Ethereum-web3.  
 # 
 ### Fecha 15/02/2023 = 1 mordida - 0h 50'// Acumulado = 3 mordidas - 3h 50'.    
 -PROYECTO: **DNS en Polygon.**    
