@@ -4,7 +4,7 @@
 En este momento esta hoja de ruta va ligada a la adquisición de bases en JS en el ["Desafío333 Javascript"](https://github.com/Eccedev/Desafio333-JavaScript).  
 Se comienza a desarrollar proyectos web3 guiados y también nos servirá para continuar posteriormente con otros entornos web3.  
   
-#### Tributo a los espacios que me ayudan mayormente a lograr mi reto con Ethereum, su entorno y proyectos web2-web3.  
+#### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/)-  y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
 #
 PROYECTOS en DESARROLLO mientras se muerde este reto: **DNS en Polygon**
