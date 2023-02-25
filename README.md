@@ -1,5 +1,5 @@
 # Desafío333 Ethereum web3
-- Mi **"Desafío333 Ethereum web3" consta de 3 huesos: 1 el lenguaje de Solidity de Ethereum, 2 el entorno web3, 3 proyectos web2-web3.**  
+- Mi **"Desafío333 Ethereum web3" consta de 3 huesos: 1 el lenguaje de programación Solidity de Ethereum, 2 el entorno web3, 3 proyectos web2-web3.**  
 #  
 
 **Mis fracciones del día:**  
