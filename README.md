@@ -13,7 +13,7 @@
 - LLevaré un control de mordidas y tiempo dedicado-acumulado en el Desafío333. 
   
     
-# [Desafío333](https://github.com/Eccedev/Desafio333)
+# [Desafío333](https://github.com/Eccedev/PROYECTO-Desafio333)
 
 ## ¿Qué es un Desafío333?  
 
@@ -64,6 +64,8 @@ En algunos casos será más conveniente desarrollar los desafíos como independi
 En cualquier momento puedes reajustar tus desafíos, recuerda que todo es adaptable a ti y solo necesitas anotarlo y llevar el control de ello. Es tu desafío, tú decides. 
   
 ¿Cuál es la elección más efectiva? Todas ellas. Lo tienes que determinar tú pues depende de tus circunstancias 😬.   
+  
+Mira un ejemplo real en [Desafío333 JavaScript](https://github.com/Eccedev/Desafio333-JavaScript).  
 
 ### ¡Vamos a calcular mordidas:  
 Ejemplo: Quiero mejorar mi destreza en desarrollo web HTML. El primer día con el hueso HTML en mi Desafío333 “HTML" dedico:  
@@ -84,6 +86,8 @@ Lo anoto para hacer el seguimiento: 3/1/2023 - Desafío333 “HTML" = 5 mordidas
   
 Cada día que muerdes intenta anotar fecha, lugar, mordida, sensaciones, notas y link's. Pero sé flexible añadiendo o quitando items según creas necesario...es tu Desafío!      
 Decide tu método para hacer el seguimiento: lo anotas en una hoja de papel, una plantilla de word, en mensajes guardados de telegram, inventa algo tú mism@ y comunícalo para ayudar a otr@s.  
+  
+Mira un ejemplo real en [Hoja de ruta y progreso](https://github.com/Eccedev/Desafio333-JavaScript/blob/main/Hoja%20de%20ruta%20y%20progreso.md)  
   
 ¿Tienes dudas aún? Continúa leyendo. ¿Ayuda? >>> [Discord](https://discord.com/channels/1075361833571057726/1075361834447671388)  
   
