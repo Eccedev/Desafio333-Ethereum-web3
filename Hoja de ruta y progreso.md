@@ -7,12 +7,12 @@ Se comienza a desarrollar proyectos web3 guiados y también nos servirá para co
 #### Tributo a los espacios que me ayudan mayormente a lograr este desafío.  
 **En orden alfabético, todos valiosos: [Alchemy University](https://university.alchemy.com/home) - [Buildspace](https://buildspace.so/) - [Freecodecamp](https://www.freecodecamp.org/learn) - [Learnweb3](https://learnweb3.io/) - [Openbootcamp](https://open-bootcamp.com/)-  y referencias a [MDN Mozilla](https://developer.mozilla.org/es/docs/Learn/JavaScript) y [W3schools](https://www.w3schools.com/js/default.asp).**  
 #
-PROYECTOS en DESARROLLO mientras se muerde este reto: **DNS en Polygon**
+PROYECTOS en DESARROLLO mientras se muerde este desafío: **DNS en Polygon**
 # 
 ### Fecha 27/02/2023 =  2 mordidas - 5h 20'// Acumulado = 5 mordidas - 9h 10'.    
 -PROYECTO: **DNS en Polygon.**    
 -Lugar: [Buildspace](https://buildspace.so/p/build-polygon-ens).    
--Mordida: usar un contrato de openzeppelin de erc721-nft, crear svg para dar una img al nft e introducirlo en la cadena para evitar que desaparezca, configurar metadatos del nft, desarrollo de domail.sol y run.js, importación de librería StringUtils.sol, deploy.js para suplir a run.js fuera del ámbito local, mintearlo en la cadena de bloques en local para chequeo, todo con la ayuda del paquete npm de hardhat, desplegarlo en la testnet de polygon-mumbai con la ayuda de Alchemy y usando metamask y obtener un contrato y un minteo de nft a la vez visible en opensea. Ojo con la importancia de no olvidar que en hardhat.config.js se incluye la clave privada de la billetera y debe permanecer invisible SIEMPRE...por ahora va a gitignore pero lo pasaremos a .env más adelante.        
+-Mordida: usar un contrato de openzeppelin de erc721-nft, crear svg para dar una img al nft e introducirlo en la cadena para evitar que desaparezca, configurar metadatos del nft, desarrollo de domail.sol y run.js, importación de librería StringUtils.sol, deploy.js para suplir a run.js fuera del ámbito local, mintearlo en la cadena de bloques en local para chequeo, todo con la ayuda del paquete npm de hardhat, desplegarlo en la testnet de polygon-mumbai con la ayuda de Alchemy y usando metamask y obtener un contrato y un minteo de nft a la vez visible en opensea. Ojo con la importancia de no olvidar que en hardhat.config.js se incluye la clave privada de la billetera y debe permanecer invisible SIEMPRE...por ahora va a gitignore pero lo trabajaremos con .env más adelante.        
 -Sensaciones: bien, con algunos bloqueos que se solucionan regresando a pasos anteriores y revisando mucho.   
 -link: [contrato Rare Name Service](https://mumbai.polygonscan.com/address/0xf215BF7727B2Fdb2D2FaAdCAf134397664F4358C) y visualización en [Opensea](https://testnets.opensea.io/es/collection/rare-name-service).  
 #
